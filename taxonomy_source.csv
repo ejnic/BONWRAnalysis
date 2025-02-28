@@ -1,0 +1,78 @@
+﻿Key,Common Name,Family,Genus,Species,SSP
+1,Pipevine Swallowtail,Papilionidae,Battus,philenor, -
+2,Zebra Swallowtail,Papilionidae,Eurytides,marcellus, -
+3,Black Swallowtail,Papilionidae,Papilio,polyxenes, -
+4,Giant Swallowtail,Papilionidae,Papilio,cresphontes, -
+5,Eastern Tiger Swallowtail,Papilionidae,Papilio,glaucus, -
+6,Spicebush Swallowtail,Papilionidae,Papilio,troilus, -
+7,Papilo sp.,Papilionidae,Papilio,-, - (likely polyxenes or glaucus in Indiana)
+8,Cabbage White,Pieridae,Pieris,rapae, -
+9,Checkered White,Pieridae,Pontia,protodice, -
+10,Clouded Sulphur,Pieridae,Colias,philodice, -
+11,Orange Sulphur,Pieridae,Colias,eurytheme, -
+12,Cloudless Sulphur,Pieridae,Phoebis,sennae, -
+13,Colias sp.,Pieridae,Colias,-, - (likely philodice or eurytheme in Indiana)
+14,Little Yellow,Pieridae,Pyrisitia,lisa, -
+15,Sleepy Orange,Pieridae,Abaeis,nicippe, -
+16,Dainty Sulphur,Pieridae,Nathalis,iole, -
+17,Harvester,Lycaenidae,Feniseca,tarquinius, -
+18,Coral Hairstreak,Lycaenidae,Satyrium,titus, -
+19,Banded Hairstreak,Lycaenidae,Satyrium,calanus, -
+20,Striped Hairstreak,Lycaenidae,Satyrium,liparops, -
+21,Olive Juniper Hairstreak,Lycaenidae,Callophrys,gryneus," gryneus (subspecies for ""Olive"" form)"
+22,Gray Hairstreak,Lycaenidae,Strymon,melinus, -
+23,Red-banded Hairstreak,Lycaenidae,Calycopis,cecrops, -
+24,Eastern Tailed-Blue,Lycaenidae,Cupido,comyntas, -
+25,Summer Spring Azure,Lycaenidae,Celastrina,ladon," neglecta (subspecies for ""Summer"" form)"
+26,American Snout,Nymphalidae,Libytheana,carinenta, -
+27,Variegated Fritillary,Nymphalidae,Euptoieta,claudia, -
+28,Great Spangled Fritillary,Nymphalidae,Speyeria,cybele, -
+29,Meadow Fritillary,Nymphalidae,Boloria,bellona, -
+30,Silvery Checkerspot,Nymphalidae,Chlosyne,nycteis, -
+31,Pearl Crescent,Nymphalidae,Phyciodes,tharos, -
+32,Question Mark,Nymphalidae,Polygonia,interrogationis, -
+33,Eastern Comma,Nymphalidae,Polygonia,comma, -
+34,Polygonia Sp.,Nymphalidae,Polygonia,-, - (likely interrogationis or comma in Indiana)
+35,Mourning Cloak,Nymphalidae,Nymphalis,antiopa, -
+36,American Lady,Nymphalidae,Vanessa,virginiensis, -
+37,Painted Lady,Nymphalidae,Vanessa,cardui, -
+38,Red Admiral,Nymphalidae,Vanessa,atalanta, -
+39,Common Buckeye,Nymphalidae,Junonia,coenia, -
+40,Red-Spotted Purple,Nymphalidae,Limenitis,arthemis, astyanax (subspecies astyanax for Red-Spotted Purple)
+41,Viceroy,Nymphalidae,Limenitis,archippus, -
+42,Goatweed Leafwing,Nymphalidae,Anaea,andria, -
+43,Hackberry Emperor,Nymphalidae,Asterocampa,celtis, -
+44,Tawny Emperor,Nymphalidae,Asterocampa,clyton, -
+45,Northern Pearly-Eye,Nymphalidae,Lethe,anthedon, -
+46,Gemmed Satyr,Nymphalidae,Cyllopsis,gemma, -
+47,Carolina Satyr,Nymphalidae,Hermeuptychia,sosybius, -
+48,Little Wood-Satyr,Nymphalidae,Megisto,cymela, -
+49,Common Wood-Nymph,Nymphalidae,Cercyonis,pegala, -
+50,Monarch,Nymphalidae,Danaus,plexippus, -
+51,Silver-spotted Skipper,Hesperiidae,Epargyreus,clarus, -
+52,Hoary Edge,Hesperiidae,Thorybes,bathyllus, -
+53,Southern Cloudywing,Hesperiidae,Thorybes,bathyllus, -
+54,Northern Cloudywing,Hesperiidae,Thorybes,pylades, -
+55,Hayhurst Scallopwing,Hesperiidae,Staphylus,hayhurstii, -
+56,Dreamy Duskywing,Hesperiidae,Erynnis,icelus, -
+57,Sleepy Duskywing,Hesperiidae,Erynnis,brizo, -
+58,Horace's Duskywing,Hesperiidae,Erynnis,horatius, -
+59,Wild Indigo Duskywing,Hesperiidae,Erynnis,baptisiae, -
+60,Common Checkered-Skipper,Hesperiidae,Pyrgus,communis, -
+61,Common Sootywing,Hesperiidae,Pholisora,catullus, -
+62,Swarthy Skipper,Hesperiidae,Nastra,lherminier, -
+63,Least Skipper,Hesperiidae,Ancyloxypha,numitor, -
+64,Fiery Skipper,Hesperiidae,Hylephila,phyleus, -
+65,Peck's Skipper,Hesperiidae,Polites,peckius, -
+66,Tawny-edged Skipper,Hesperiidae,Polites,themistocles, -
+67,Crossline Skipper,Hesperiidae,Polites,origenes, -
+68,Northern Broken-Dash,Hesperiidae,Wallengrenia,egeremet, -
+69,Little Glassywing,Hesperiidae,Pompeius,verna, -
+70,Sachem,Hesperiidae,Atalopedes,campestris, -
+71,Delaware Skipper,Hesperiidae,Anatrytone,logan, -
+72,Hobomok Skipper,Hesperiidae,Lon,hobomok, -
+73,Zabulon Skipper,Hesperiidae,Lon,zabulon, -
+74,Dion Skipper,Hesperiidae,Euphyes,dion, -
+75,Dun Skipper,Hesperiidae,Euphyes,vestris, -
+76,Pepper and Salt Skipper,Hesperiidae,Amblyscirtes,hegon, -
+77,Skipper Sp.,Hesperiidae,-,-, - (likely Hesperia or Polites in Indiana)

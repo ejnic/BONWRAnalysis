@@ -1,78 +1,86 @@
-﻿Common Name,Family,Genus,Species,SSP,8/21/1999,7/22/2000,7/21/2001,7/20/2002,7/19/2003,7/17/2004,7/16/2005,7/15/2006,7/21/2007,7/19/2008,7/18/2009,7/31/2010,7/30/2011,8/4/2012,8/3/2013,8/2/2014,8/1/2015,8/6/2016
-Pipevine Swallowtail,Papilionidae,Battus,philenor, -,4,14,1,16,18,44,28,71,24,44,75,51,16,26,32,7,19,9
-Zebra Swallowtail,Papilionidae,Eurytides,marcellus, -,,2,2,5,4,5,4,8,7,10,4,11,,3,4,1,5,18
-Black Swallowtail,Papilionidae,Papilio,polyxenes, -,13,,4,11,3,13,1,23,2,6,3,24,6,6,2,2,9,8
-Giant Swallowtail,Papilionidae,Papilio,cresphontes, -,1,,,1,,,,,,,,1,1,,,,,
-Eastern Tiger Swallowtail,Papilionidae,Papilio,glaucus, -,33,54,54,116,61,95,87,138,355,46,11,1503,673,78,428,185,312,611
-Spicebush Swallowtail,Papilionidae,Papilio,troilus, -,161,117,90,228,81,352,256,85,396,127,85,228,342,98,284,325,284,452
-Papilo sp.,Papilionidae,Papilio,-, - (likely polyxenes or glaucus in Indiana),,,,,,,,,,,,,,2,23,13,16,
-Cabbage White,Pieridae,Pieris,rapae, -,7,7,68,59,60,22,104,62,21,232,25,73,48,47,21,49,57,74
-Checkered White,Pieridae,Pontia,protodice, -,,,,,3,,,1,,,,,,1,1,,,
-Clouded Sulphur,Pieridae,Colias,philodice, -,47,27,52,72,47,138,29,37,91,40,15,216,8,3,26,174,32,71
-Orange Sulphur,Pieridae,Colias,eurytheme, -,38,22,111,131,71,298,85,59,117,145,126,262,74,45,43,196,54,99
-Cloudless Sulphur,Pieridae,Phoebis,sennae, -,1,,2,1,1,,9,6,3,1,,2,2,16,3,,,7
-Colias sp.,Pieridae,Colias,-, - (likely philodice or eurytheme in Indiana),,,,31,18,,,,15,,,50,,,,11,,5
-Little Yellow,Pieridae,Pyrisitia,lisa, -,7,1,11,3,,1,,,3,,,28,,11,1,6,,7
-Sleepy Orange,Pieridae,Abaeis,nicippe, -,,,,,,2,,,1,2,,5,,17,2,1,,
-Dainty Sulphur,Pieridae,Nathalis,iole, -,,,,,,,,,,,,,,9,,,,2
-Harvester,Lycaenidae,Feniseca,tarquinius, -,,,,,,,,,,,,,,,1,,,
-Coral Hairstreak,Lycaenidae,Satyrium,titus, -,,,,,,,,,,1,,,,,,,,
-Banded Hairstreak,Lycaenidae,Satyrium,calanus, -,,,1,,,,3,,,,,,,,,1,,
-Striped Hairstreak,Lycaenidae,Satyrium,liparops, -,,,,,,,,1,,,,,,,,,,
-Olive Juniper Hairstreak,Lycaenidae,Callophrys,gryneus," gryneus (subspecies for ""Olive"" form)",,1,,,,,,,,,,,,,,,,
-Gray Hairstreak,Lycaenidae,Strymon,melinus, -,27,1,1,1,,2,,3,,,,5,,1,,,1,2
-Red-banded Hairstreak,Lycaenidae,Calycopis,cecrops, -,,8,,,,3,,,4,,,2,,2,3,3,1,
-Eastern Tailed-Blue,Lycaenidae,Cupido,comyntas, -,43,56,30,132,80,125,236,33,92,368,13,140,49,167,171,91,12,32
-Summer Spring Azure,Lycaenidae,Celastrina,ladon," neglecta (subspecies for ""Summer"" form)",6,2,5,6,2,18,5,9,5,9,1,99,7,8,61,26,8,12
-American Snout,Nymphalidae,Libytheana,carinenta, -,2,,1,15,10,3,2,3,1,2,,,2,,,3,3,
-Variegated Fritillary,Nymphalidae,Euptoieta,claudia, -,1,,1,7,4,,,,,2,,7,,6,,6,,4
-Great Spangled Fritillary,Nymphalidae,Speyeria,cybele, -,203,122,36,50,51,66,193,167,30,151,121,87,19,19,100,100,59,46
-Meadow Fritillary,Nymphalidae,Boloria,bellona, -,,,,2,15,1,11,82,2,,3,172,10,4,,13,,30
-Silvery Checkerspot,Nymphalidae,Chlosyne,nycteis, -,,8,,12,1,9,,,222,,,1,35,11,15,10,6,23
-Pearl Crescent,Nymphalidae,Phyciodes,tharos, -,76,87,87,736,72,256,375,286,404,137,117,775,385,74,159,212,93,230
-Question Mark,Nymphalidae,Polygonia,interrogationis, -,3,7,34,28,18,12,21,53,35,9,6,29,3,3,13,18,4,7
-Eastern Comma,Nymphalidae,Polygonia,comma, -,3,8,23,65,11,30,26,18,16,20,3,28,2,2,32,40,8,31
-Polygonia Sp.,Nymphalidae,Polygonia,-, - (likely interrogationis or comma in Indiana),,,63,20,,,40,,13,7,,,,1,,17,,
-Mourning Cloak,Nymphalidae,Nymphalis,antiopa, -,,1,,,,,,,,,1,,,,,,,
-American Lady,Nymphalidae,Vanessa,virginiensis, -,,4,7,2,11,3,7,3,9,8,4,4,4,4,,2,3,3
-Painted Lady,Nymphalidae,Vanessa,cardui, -,,,9,1,3,5,11,,5,9,3,1,,5,,,,
-Red Admiral,Nymphalidae,Vanessa,atalanta, -,3,11,116,49,31,66,51,15,85,7,14,45,14,4,14,10,8,12
-Common Buckeye,Nymphalidae,Junonia,coenia, -,75,65,12,257,5,20,3,24,13,38,8,143,115,169,9,24,8,33
-Red-Spotted Purple,Nymphalidae,Limenitis,arthemis, astyanax (subspecies astyanax for Red-Spotted Purple),20,71,40,349,24,42,29,46,95,24,18,76,31,18,48,75,34,17
-Viceroy,Nymphalidae,Limenitis,archippus, -,22,44,17,93,32,100,86,45,85,58,39,59,10,14,16,37,18,29
-Goatweed Leafwing,Nymphalidae,Anaea,andria, -,,,,,,,,,,,,1,,,,,,
-Hackberry Emperor,Nymphalidae,Asterocampa,celtis, -,1,,3,4,6,2,,,2,1,1,18,2,,21,13,14,8
-Tawny Emperor,Nymphalidae,Asterocampa,clyton, -,,,,10,7,3,,12,2,10,,11,,,1,3,7,30
-Northern Pearly-Eye,Nymphalidae,Lethe,anthedon, -,6,,12,24,,8,1,3,15,2,1,30,2,12,5,6,2,30
-Gemmed Satyr,Nymphalidae,Cyllopsis,gemma, -,,,,,,,,1,,,,,,,,,,3
-Carolina Satyr,Nymphalidae,Hermeuptychia,sosybius, -,,,,,,,,,1,,,,,,3,8,,7
-Little Wood-Satyr,Nymphalidae,Megisto,cymela, -,,10,5,11,77,29,63,13,26,57,142,5,16,3,5,2,,14
-Common Wood-Nymph,Nymphalidae,Cercyonis,pegala, -,,7,14,44,293,94,340,143,14,33,97,7,7,9,11,10,2,13
-Monarch,Nymphalidae,Danaus,plexippus, -,48,18,23,16,49,8,25,49,106,49,48,117,65,20,4,39,46,28
-Silver-spotted Skipper,Hesperiidae,Epargyreus,clarus, -,47,163,18,124,114,314,102,56,149,46,21,232,97,57,47,168,226,105
-Hoary Edge,Hesperiidae,Thorybes,bathyllus, -,,1,1,,,,,,,,,1,,,1,7,3,7
-Southern Cloudywing,Hesperiidae,Thorybes,bathyllus, -,1,3,4,11,3,33,2,1,19,4,,2,18,3,4,6,,5
-Northern Cloudywing,Hesperiidae,Thorybes,pylades, -,,,,,,,,,1,,,,,2,,,,
-Hayhurst Scallopwing,Hesperiidae,Staphylus,hayhurstii, -,,,,,,,,,,,1,,1,,,,,
-Dreamy Duskywing,Hesperiidae,Erynnis,icelus, -,,,1,,,,8,,,1,,,,,,1,,
-Sleepy Duskywing,Hesperiidae,Erynnis,brizo, -,,,,,,,,2,,,,,,,,,,
-Horace's Duskywing,Hesperiidae,Erynnis,horatius, -,2,20,2,7,17,24,5,16,13,25,9,3,4,5,9,6,5,6
-Wild Indigo Duskywing,Hesperiidae,Erynnis,baptisiae, -,1,8,4,7,31,4,6,24,10,4,,36,2,35,6,13,11,14
-Common Checkered-Skipper,Hesperiidae,Pyrgus,communis, -,,,,,,,,,,,,,,2,,,,
-Common Sootywing,Hesperiidae,Pholisora,catullus, -,4,,2,,1,1,,1,,3,1,,2,1,1,6,,2
-Swarthy Skipper,Hesperiidae,Nastra,lherminier, -,,7,,3,,1,,,7,,,8,9,,4,3,,1
-Least Skipper,Hesperiidae,Ancyloxypha,numitor, -,7,26,14,101,9,60,17,22,23,11,9,11,8,5,4,8,4,4
-Fiery Skipper,Hesperiidae,Hylephila,phyleus, -,2,,,,,,,,,,,,,14,,,,
-Peck's Skipper,Hesperiidae,Polites,peckius, -,,,,,,,,1,,2,1,1,,2,,2,,
-Tawny-edged Skipper,Hesperiidae,Polites,themistocles, -,3,,,2,5,2,1,1,1,,,1,1,6,5,7,3,3
-Crossline Skipper,Hesperiidae,Polites,origenes, -,1,,,1,2,1,6,3,5,3,10,3,5,1,,12,,5
-Northern Broken-Dash,Hesperiidae,Wallengrenia,egeremet, -,,5,,4,8,13,21,6,7,20,21,11,9,11,19,32,14,8
-Little Glassywing,Hesperiidae,Pompeius,verna, -,2,1,,11,4,1,19,27,6,4,5,5,,11,4,1,2,6
-Sachem,Hesperiidae,Atalopedes,campestris, -,1,2,,1,,,,1,,,,,,10,5,5,1,
-Delaware Skipper,Hesperiidae,Anatrytone,logan, -,4,2,1,,2,1,1,1,,2,,1,3,2,1,,1,
-Hobomok Skipper,Hesperiidae,Lon,hobomok, -,1,,,,,,,,,,,,,,,2,,
-Zabulon Skipper,Hesperiidae,Lon,zabulon, -,2,5,,2,,9,,,36,,,61,18,29,38,28,9,94
-Dion Skipper,Hesperiidae,Euphyes,dion, -,2,,,,,,,,,,,,,,,,,
-Dun Skipper,Hesperiidae,Euphyes,vestris, -,16,6,3,23,17,6,19,45,16,15,18,16,5,19,10,13,6,1
-Pepper and Salt Skipper,Hesperiidae,Amblyscirtes,hegon, -,,,,,,2,,,,,,,,,,,,
-Skipper Sp.,Hesperiidae,-,-, - (likely Hesperia or Polites in Indiana),,,33,10,,,,,9,,,,,,16,,,
+﻿Key,1999,2000,2001,2002,2003,2004,2005,2006,2007,2008,2009,2010,2011,2012,2013,2014,2015,2016
+1,4,14,1,16,18,44,28,71,24,44,75,51,16,26,32,7,19,9
+2,,2,2,5,4,5,4,8,7,10,4,11,,3,4,1,5,18
+3,13,,4,11,3,13,1,23,2,6,3,24,6,6,2,2,9,8
+4,1,,,1,,,,,,,,1,1,,,,,
+5,33,54,54,116,61,95,87,138,355,46,11,1503,673,78,428,185,312,611
+6,161,117,90,228,81,352,256,85,396,127,85,228,342,98,284,325,284,452
+7,,,,,,,,,,,,,,2,23,13,16,
+8,7,7,68,59,60,22,104,62,21,232,25,73,48,47,21,49,57,74
+9,,,,,3,,,1,,,,,,1,1,,,
+10,47,27,52,72,47,138,29,37,91,40,15,216,8,3,26,174,32,71
+11,38,22,111,131,71,298,85,59,117,145,126,262,74,45,43,196,54,99
+12,1,,2,1,1,,9,6,3,1,,2,2,16,3,,,7
+13,,,,31,18,,,,15,,,50,,,,11,,5
+14,7,1,11,3,,1,,,3,,,28,,11,1,6,,7
+15,,,,,,2,,,1,2,,5,,17,2,1,,
+16,,,,,,,,,,,,,,9,,,,2
+17,,,,,,,,,,,,,,,1,,,
+18,,,,,,,,,,1,,,,,,,,
+19,,,1,,,,3,,,,,,,,,1,,
+20,,,,,,,,1,,,,,,,,,,
+21,,1,,,,,,,,,,,,,,,,
+22,27,1,1,1,,2,,3,,,,5,,1,,,1,2
+23,,8,,,,3,,,4,,,2,,2,3,3,1,
+24,43,56,30,132,80,125,236,33,92,368,13,140,49,167,171,91,12,32
+25,6,2,5,6,2,18,5,9,5,9,1,99,7,8,61,26,8,12
+26,2,,1,15,10,3,2,3,1,2,,,2,,,3,3,
+27,1,,1,7,4,,,,,2,,7,,6,,6,,4
+28,203,122,36,50,51,66,193,167,30,151,121,87,19,19,100,100,59,46
+29,,,,2,15,1,11,82,2,,3,172,10,4,,13,,30
+30,,8,,12,1,9,,,222,,,1,35,11,15,10,6,23
+31,76,87,87,736,72,256,375,286,404,137,117,775,385,74,159,212,93,230
+32,3,7,34,28,18,12,21,53,35,9,6,29,3,3,13,18,4,7
+33,3,8,23,65,11,30,26,18,16,20,3,28,2,2,32,40,8,31
+34,,,63,20,,,40,,13,7,,,,1,,17,,
+35,,1,,,,,,,,,1,,,,,,,
+36,,4,7,2,11,3,7,3,9,8,4,4,4,4,,2,3,3
+37,,,9,1,3,5,11,,5,9,3,1,,5,,,,
+38,3,11,116,49,31,66,51,15,85,7,14,45,14,4,14,10,8,12
+39,75,65,12,257,5,20,3,24,13,38,8,143,115,169,9,24,8,33
+40,20,71,40,349,24,42,29,46,95,24,18,76,31,18,48,75,34,17
+41,22,44,17,93,32,100,86,45,85,58,39,59,10,14,16,37,18,29
+42,,,,,,,,,,,,1,,,,,,
+43,1,,3,4,6,2,,,2,1,1,18,2,,21,13,14,8
+44,,,,10,7,3,,12,2,10,,11,,,1,3,7,30
+45,6,,12,24,,8,1,3,15,2,1,30,2,12,5,6,2,30
+46,,,,,,,,1,,,,,,,,,,3
+47,,,,,,,,,1,,,,,,3,8,,7
+48,,10,5,11,77,29,63,13,26,57,142,5,16,3,5,2,,14
+49,,7,14,44,293,94,340,143,14,33,97,7,7,9,11,10,2,13
+50,48,18,23,16,49,8,25,49,106,49,48,117,65,20,4,39,46,28
+51,47,163,18,124,114,314,102,56,149,46,21,232,97,57,47,168,226,105
+52,,1,1,,,,,,,,,1,,,1,7,3,7
+53,1,3,4,11,3,33,2,1,19,4,,2,18,3,4,6,,5
+54,,,,,,,,,1,,,,,2,,,,
+55,,,,,,,,,,,1,,1,,,,,
+56,,,1,,,,8,,,1,,,,,,1,,
+57,,,,,,,,2,,,,,,,,,,
+58,2,20,2,7,17,24,5,16,13,25,9,3,4,5,9,6,5,6
+59,1,8,4,7,31,4,6,24,10,4,,36,2,35,6,13,11,14
+60,,,,,,,,,,,,,,2,,,,
+61,4,,2,,1,1,,1,,3,1,,2,1,1,6,,2
+62,,7,,3,,1,,,7,,,8,9,,4,3,,1
+63,7,26,14,101,9,60,17,22,23,11,9,11,8,5,4,8,4,4
+64,2,,,,,,,,,,,,,14,,,,
+65,,,,,,,,1,,2,1,1,,2,,2,,
+66,3,,,2,5,2,1,1,1,,,1,1,6,5,7,3,3
+67,1,,,1,2,1,6,3,5,3,10,3,5,1,,12,,5
+68,,5,,4,8,13,21,6,7,20,21,11,9,11,19,32,14,8
+69,2,1,,11,4,1,19,27,6,4,5,5,,11,4,1,2,6
+70,1,2,,1,,,,1,,,,,,10,5,5,1,
+71,4,2,1,,2,1,1,1,,2,,1,3,2,1,,1,
+72,1,,,,,,,,,,,,,,,2,,
+73,2,5,,2,,9,,,36,,,61,18,29,38,28,9,94
+74,2,,,,,,,,,,,,,,,,,
+75,16,6,3,23,17,6,19,45,16,15,18,16,5,19,10,13,6,1
+76,,,,,,2,,,,,,,,,,,,
+77,,,33,10,,,,,9,,,,,,16,,,
+,,,,,,,,,,,,,,,,,,
+,41,40,42,47,43,48,40,46,47,44,37,51,42,52,47,52,40,48
+,947,1024,1018,2915,1382,2347,2338,1706,2619,1795,1080,4708,2130,1133,1736,2059,1410,2268
+,,,,,,,,,,,,,,,,,,
+,7,6,6,18,22,14,14,15,15,13,12,11,12,12,19,18,16,15
+,8,8,11,28,18,20.5,19.5,19,25,28,28,22.5,24.5,25.5,25,28.5,18,26
+,1,1,2,4,3,3,3,3,3,4,4,3,3,4,4,4,3,4
+,21-Aug,22-Jul,21-Jul,20-Jul,19-Jul,17-Jul,16-Jul,15-Jul,21-Jul,19-Jul,18-Jul,31-Jul,30-Jul,4-Aug,3-Aug,2-Aug,1-Aug,6-Aug
